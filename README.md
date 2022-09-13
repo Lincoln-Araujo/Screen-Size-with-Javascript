@@ -6,3 +6,5 @@ DESCRIPTION: This is a code to discover the correct screen size of your current 
 - HTML
 - CSS
 - Javascript
+
+link: https://lincoln-araujo.github.io/Screen-Size-with-Javascript/
